@@ -1,5 +1,5 @@
 # Written Works
-Repo for my short plays.
+Repo for my plays.
 
 ## Plays
 
