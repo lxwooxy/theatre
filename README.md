@@ -15,7 +15,7 @@ Presented at Hunter Theatre Department's CoLab 3.0, Nov 18th and 20th 2021 at th
 
 Production photos on [Behance](https://www.behance.net/gallery/131689083/POD-Georgina-Woo-%282021%29).
 
-[![Alt text][(https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://www.behance.net/gallery/131689083/POD-Georgina-Woo-%282021%29)
 
 ### Family Meal
 
