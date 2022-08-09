@@ -27,4 +27,4 @@ Presented at Hunter Theatre Company's Playwrights Festival, March 11 2022 at the
 
 Production photos on [Behance](https://www.behance.net/gallery/139304509/Family-Meal-HTC-Playwrights-Fest-%282022%29).
 
-[![Oopsie Doopsie, image link breaky](https://imgur.com/FG146YS)](https://www.behance.net/gallery/139304509/Family-Meal-HTC-Playwrights-Fest-%282022%29)
+[![Oopsie Doopsie, image link breaky](https://imgur.com/FG146YS.jpg)](https://www.behance.net/gallery/139304509/Family-Meal-HTC-Playwrights-Fest-%282022%29)
