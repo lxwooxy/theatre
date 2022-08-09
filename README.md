@@ -1,9 +1,7 @@
 # Written Works
 Repo for my short plays.
 
-## Plays
-
-### POD
+## POD
 
 ```
 A lonely robot meets one of the last remaining humans on earth.
