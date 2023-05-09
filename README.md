@@ -2,6 +2,7 @@
 Repo for my short plays.
 
 ## POD
+Nov 2021
 
 ```
 A lonely robot meets one of the last remaining humans on earth.
@@ -16,6 +17,7 @@ Production photos on [Behance](https://www.behance.net/gallery/131689083/POD-Geo
 [![Oopsie Doopsie, image link breaky](https://imgur.com/erIPRXp.jpg)](https://www.behance.net/gallery/131689083/POD-Georgina-Woo-%282021%29)
 
 ## Family Meal
+March 2022
 
 ```
 A story of love between two siblings living in a post-apocalyptic world.
@@ -30,9 +32,9 @@ Production photos on [Behance](https://www.behance.net/gallery/139304509/Family-
 [![Oopsie Doopsie, image link breaky](https://imgur.com/FG146YS.jpg)](https://www.behance.net/gallery/139304509/Family-Meal-HTC-Playwrights-Fest-%282022%29)
 
 ## PROMISE
-
+May 2023
 ```
-A lonely robot meets one of the last remaining humans on earth.
+A robot makes a promise.
 ```
 ### Productions
 Presented at Hunter Theatre Company's Undergraduate Playwright's Festival, May 7 2023 at The Rita Goldberg Studio. 
