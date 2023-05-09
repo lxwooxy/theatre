@@ -41,4 +41,4 @@ Presented at Hunter Theatre Company's Undergraduate Playwright's Festival, May 7
 
 Production photos on [Behance](https://www.behance.net/gallery/170209845/PROMISE-Georgina-Woo).
 
-[![Oopsie Doopsie, image link breaky](https://imgur.com/a/g2Gjy9D.jpg)](https://www.behance.net/gallery/170209845/PROMISE-Georgina-Woo)
+[![Oopsie Doopsie, image link breaky](https://imgur.com/g2Gjy9D.jpg)](https://www.behance.net/gallery/170209845/PROMISE-Georgina-Woo)
